@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chargingstation/static/css/main.39fce16a.css",
+    "main.js": "/chargingstation/static/js/main.05a58e43.js",
+    "static/js/787.dde54bb0.chunk.js": "/chargingstation/static/js/787.dde54bb0.chunk.js",
+    "index.html": "/chargingstation/index.html",
+    "main.39fce16a.css.map": "/chargingstation/static/css/main.39fce16a.css.map",
+    "main.05a58e43.js.map": "/chargingstation/static/js/main.05a58e43.js.map",
+    "787.dde54bb0.chunk.js.map": "/chargingstation/static/js/787.dde54bb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39fce16a.css",
+    "static/js/main.05a58e43.js"
+  ]
+}
